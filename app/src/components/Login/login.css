@@ -1,0 +1,11 @@
+.save-button {
+    border: 1px solid rgba(145, 158, 171, 1);
+    color: #1c7ed9;
+    font-size: 18px;
+    height: 50px;
+    width: 300px;
+    border-radius: 15px;
+    padding:10px;
+    cursor: pointer;
+    transition:.3s;
+  }
